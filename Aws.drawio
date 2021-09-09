@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T11:14:57.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="13331AdC_OOd74WmUpOJ" version="15.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T13:35:54.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="SPn3vgHSqhC5gRCe1dXX" version="15.1.0" type="github">
   <diagram id="dY4LAQDZiEf2W0ObNjmR" name="Page-1">
-    <mxGraphModel dx="3923" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2375" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -476,7 +476,7 @@
           <mxGeometry x="2160" y="1910" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9tpbfjYw-VIgdSsZuQcC-65" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/logstash-128.png" vertex="1" parent="1">
-          <mxGeometry x="2156.63" y="1990" width="89" height="89" as="geometry" />
+          <mxGeometry x="2155.5" y="2000" width="89" height="89" as="geometry" />
         </mxCell>
         <mxCell id="9tpbfjYw-VIgdSsZuQcC-66" value="Kibana" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2160.5" y="1550" width="50" height="20" as="geometry" />
@@ -518,16 +518,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9tpbfjYw-VIgdSsZuQcC-81" value="C&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bdashed%3D1%3Bhtml%3D1%3BdashPattern%3D1%203%3BstrokeWidth%3D2%3BendFill%3D1%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%221730%22%20y%3D%222240%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%222110%22%20y%3D%222240%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%221920%22%20y%3D%222240%22%2F%3E%3C%2FArray%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="endArrow=classic;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;endFill=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1730" y="2240" as="sourcePoint" />
-            <mxPoint x="2110" y="2240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1920" y="2240" />
-            </Array>
+          <mxGeometry x="-1" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1730" y="2350" as="sourcePoint" />
+            <mxPoint x="1730" y="2200" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9tpbfjYw-VIgdSsZuQcC-82" value="post logs on kafka topic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="2200" width="140" height="20" as="geometry" />
+          <mxGeometry x="1910" y="2146.75" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9tpbfjYw-VIgdSsZuQcC-84" value="" style="endArrow=classic;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -568,7 +567,7 @@
           <mxGeometry x="2242.25" y="2433.25" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9tpbfjYw-VIgdSsZuQcC-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="2900" width="487.75" height="420" as="geometry" />
+          <mxGeometry x="1941.1200000000001" y="2900" width="487.75" height="420" as="geometry" />
         </mxCell>
         <mxCell id="9tpbfjYw-VIgdSsZuQcC-97" value="" style="endArrow=classic;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -691,9 +690,6 @@
             <mxPoint x="2710" y="2260" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="9tpbfjYw-VIgdSsZuQcC-135" value="post logs to Cloudwatch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2214.25" y="2830" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9tpbfjYw-VIgdSsZuQcC-136" value="&lt;b&gt;cloudwatch logging&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="2012.76" y="2880" width="130" height="20" as="geometry" />
@@ -1254,6 +1250,34 @@
         </mxCell>
         <mxCell id="9tpbfjYw-VIgdSsZuQcC-458" value="&lt;font style=&quot;font-size: 32px&quot;&gt;?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="6900" y="2110" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9tpbfjYw-VIgdSsZuQcC-459" value="keep logs?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2535" y="1700" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9tpbfjYw-VIgdSsZuQcC-461" value="message pro" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="2000" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9tpbfjYw-VIgdSsZuQcC-462" value="?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="1810" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9tpbfjYw-VIgdSsZuQcC-463" value="37.4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4610" y="3160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9tpbfjYw-VIgdSsZuQcC-466" value="" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Application_128x128.png;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="2121.25" width="60" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="9tpbfjYw-VIgdSsZuQcC-468" value="" style="endArrow=classic;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1770" y="2160" as="sourcePoint" />
+            <mxPoint x="1900" y="2160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1770" y="2160" />
+              <mxPoint x="1810" y="2160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9tpbfjYw-VIgdSsZuQcC-469" value="Application formats logs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="2101.25" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
